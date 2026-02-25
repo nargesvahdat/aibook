@@ -1,3 +1,3 @@
-# create a login in python
+# create a login in bash
 
 login
